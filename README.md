@@ -1,4 +1,4 @@
-# Deadlock Detection Using Banker Algorithm
+# Deadlock Detection Using Banker's Algorithm
  
 A system that detects deadlocks in a system with N processes and M resources.
 
